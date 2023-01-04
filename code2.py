@@ -4,7 +4,7 @@
 # Install dependencies 
     # pip install fastapi[all]
     # pip install psycopg2
-# Change python interpreter to \fastapi,venv\scripts\python.exe
+# Change python interpreter to \fastapi-venv\scripts\python.exe
 # Create a table in postgres, and rename the values in line 30
 # Start up webs server
     # uvicorn main:app --reload
